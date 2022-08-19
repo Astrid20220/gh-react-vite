@@ -3,6 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: 'https://Astrid20220.github.io/gh-react-vite/',
+  base: '/',
   plugins: [react()]
 })
+
